@@ -1,0 +1,7 @@
+{
+    "python.linting.enabled": true,
+    "files.watcherExclude": {
+        "**/target": true
+    },
+    "python.pythonPath": "venv\\Scripts\\python.exe"
+}

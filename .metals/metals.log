@@ -1,0 +1,39 @@
+[0m2021.02.03 15:44:00 INFO  Started: Metals version 0.9.10 in workspace 'C:\Users\Marku\OneDrive\Universitet (AAU)\VSCode' for client vscode 1.52.1.[0m
+[0m2021.02.03 15:44:00 INFO  time: initialize in 0.39s[0m
+[0m2021.02.03 15:44:01 WARN  Build server is not auto-connectable.[0m
+[0m2021.02.03 15:44:01 WARN  no build tool detected in workspace 'C:\Users\Marku\OneDrive\Universitet (AAU)\VSCode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+feb. 03, 2021 3:44:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+[0m2021.02.03 15:44:20 INFO  shutting down Metals[0m
+[0m2021.02.03 15:44:29 INFO  Started: Metals version 0.9.10 in workspace 'C:\Users\Marku\OneDrive\Universitet (AAU)\VSCode' for client vscode 1.52.1.[0m
+[0m2021.02.03 15:44:29 INFO  time: initialize in 0.36s[0m
+[0m2021.02.03 15:44:30 WARN  Build server is not auto-connectable.[0m
+[0m2021.02.03 15:44:30 WARN  no build tool detected in workspace 'C:\Users\Marku\OneDrive\Universitet (AAU)\VSCode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+feb. 03, 2021 3:46:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+[0m2021.02.03 15:48:03 INFO  no build target: using presentation compiler with only scala-library[0m
+[0m2021.02.03 15:48:05 WARN  no build target for: C:\Users\Marku\OneDrive\Universitet (AAU)\IntelliJ Scala\miniscala\src\miniscala\Main.scala[0m
+feb. 03, 2021 3:48:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+[0m2021.02.03 15:48:05 WARN  no build target for: C:\Users\Marku\OneDrive\Universitet (AAU)\IntelliJ Scala\miniscala\src\miniscala\Week1.scala[0m
+feb. 03, 2021 3:48:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+feb. 03, 2021 3:49:04 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+feb. 03, 2021 3:49:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+feb. 03, 2021 3:49:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+[0m2021.02.03 16:01:29 INFO  [0m
+[0m2021.02.03 16:01:29 INFO  Template applied in C:\Users\Marku\OneDrive\Universitet (AAU)\Databasesystemer\.\hello-world[0m
+[0m2021.02.03 16:01:29 INFO  [0m
+[0m2021.02.03 16:01:29 INFO  giter8.Giter8 exit: 0[0m
+[0m2021.02.03 16:01:29 INFO  time: ran 'giter8.Giter8' in 5.75s[0m
+[0m2021.02.03 16:03:10 INFO  shutting down Metals[0m
+[0m2021.02.05 16:42:13 INFO  Started: Metals version 0.9.10 in workspace 'C:\Users\Marku\OneDrive\Universitet (AAU)\VSCode\Python skabelon' for client vscode 1.52.1.[0m
+[0m2021.02.05 16:42:13 INFO  time: initialize in 0.35s[0m
+[0m2021.02.05 16:42:13 WARN  Build server is not auto-connectable.[0m
+[0m2021.02.05 16:42:13 WARN  no build tool detected in workspace 'C:\Users\Marku\OneDrive\Universitet (AAU)\VSCode\Python skabelon'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+feb. 05, 2021 4:42:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+[0m2021.02.05 16:42:49 INFO  shutting down Metals[0m
